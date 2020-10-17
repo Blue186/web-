@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>百度一下，你就知道</title>
+    <style type="text/css">
+        
+        
+        .you {
+            margin: 10px 0px 5px 0px;
+            padding: 0px 10px 0px 0px;
+            height: 24px;
+            background-color: white;
+          
+        }
+        .aa {
+            font-size: 13px;
+            color: #333333;
+            margin: 0px 0px 0px 20px;
+            font-weight: bold;
+        }
+        .aa1{
+            font-size: 13px;
+            color: #333333;
+            margin: 0px 0px 0px 20px;
+        }
+        .aa2 {
+            margin: 0px 0px 0px 20px;
+            background-color: blue;
+            color: white;
+            border: 1px;
+        }
+        .aa3{
+            height: 32px;
+            width: 100%;
+        }
+        .ff {
+            float: left;
+        }
+        .ff1 {
+            float: right;
+        }
+       
+        .bb {
+            text-align: center;
+        }
+        .bb1 {
+            height: 34px;
+            width: 460px;
+            margin-top: 100px;
+        }
+        .bb2 {
+            background-color: #3388FF;
+                color: white;
+                border: 0;
+                height: 39px;
+                width: 100px;
+              
+        }
+        .bottom {
+                margin: 100px 0px 0px 10px;
+                text-align: center;
+            }
+        .cc {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .cc1 {
+            margin: 0px 0px 0px 25px;
+            color: #999999;
+            font-size: 12px;
+        }
+
+        .cc2 {
+            color: #999999;
+            font-size: 12px;
+        }
+
+        .pp {
+            height: 234px;
+            width: 460px;
+            margin-top: 100px;
+            padding-bottom: 20px;
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+    <div>
+        <div class="you">
+            <div class="ff">
+            <a href="#" class="aa1">重庆：</a>
+            <a href="#" class="aa1">18</a>
+            <a href="#" class="aa1">优 27 | </a>
+            <a href="#" class="aa1">换肤</a>
+            <a href="#" class="aa1">消息</a>
+            <a href="#" class="aa1">显示频道</a>
+            
+                </div>
+        <div class="ff1">
+            <a href="#" class="aa">新闻</a>
+            <a href="#" class="aa">hao123</a>
+            <a href="#" class="aa">地图</a>
+            <a href="#" class="aa">视频</a>
+            <a href="#" class="aa">贴吧</a>
+            <a href="#" class="aa">学术</a>
+            <a href="#" class="aa1">登录</a>
+            <a href="#" class="aa1">设置</a>
+            <button type="bottom" class="aa2" >更多设置</button>
+           </div>
+           
+        </div>
+        <hr>
+    
+    </div>      
+            
+    <div style="text-align: center;"><img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1275641114,1627919713&fm=26&gp=0.jpg"  class="pp"></div>  
+        
+        <div class="bb">
+            <input type="text" class="bb1"> <input type="button" class="bb2" value="百度一下">
+        </div>
+
+        <div class="bottom">
+            <div class="cc">
+
+            </div>
+
+            <div>
+                <a href="#" class="cc1">设为首页</a>
+                <span class="cc1">©2019 Baidu</span>
+                <a href="#" class="cc2">使用百度前必读</a>
+                <a href="#" class="cc2">意见反馈</a>
+                <span class="cc2">京ICP证030173号</span>
+               
+            </div>
+
+            <div>
+                <a href="#" class="cc1">京公网安备11000002000001号</a>
+            </div>
+        </div>
+
+    </div>
+    
+</body>
+</html>
